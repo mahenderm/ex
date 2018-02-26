@@ -1,0 +1,19 @@
+INDEX VERSION 1.126
+E:\SLOKAM\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\705985790.index
+\HtmlCSS\src
+E:\SLOKAM\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1131598822.index
+\SpringMVCproject\src
+E:\SLOKAM\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3942923275.index
+\SpringValidations1\src
+E:\SLOKAM\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1683623987.index
+\SpringProjectCountry\src
+E:\SLOKAM\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1959790026.index
+\SpringValidations\src
+E:\SLOKAM\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1604705878.index
+\SpringHibernate\src
+E:\SLOKAM\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2266699733.index
+\SpringValidations\src
+E:\SLOKAM\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3198698143.index
+\SpringHibernate\src
+E:\SLOKAM\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3237184258.index
+\SpringCalc\src

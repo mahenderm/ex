@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+ <bean id="emp" class="com.st.spring.scopes.Employee"> 
+<!-- <bean id="emp" class="com.st.spring.scopes.Employee" scope="prototype"> -->
+<constructor-arg value="123"></constructor-arg>
+<constructor-arg value="kumar"></constructor-arg>
+<constructor-arg value="hyd"></constructor-arg>
+</bean>
+
+<bean id="s" class="com.st.spring.scopes.Student" scope="prototype">
+<!-- <bean id="s" class="com.st.spring.scopes.Student"> -->
+
+<property name="sno" value="001"></property>
+<property name="sname" value="Mahender"></property>
+<property name="address" value="Adilabad"></property>
+</bean>
+
+
+</beans>

@@ -1,0 +1,12 @@
+127.0.0.1 - - [06/May/2016:16:07:56 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [06/May/2016:16:07:58 +0530] "GET /SpringMVCproject/ HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/May/2016:16:08:49 +0530] "GET /SpringMVCproject/reguser.htm HTTP/1.1" 500 7612
+127.0.0.1 - - [06/May/2016:16:14:07 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [06/May/2016:16:14:09 +0530] "GET /SpringMVCproject/ HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/May/2016:16:14:18 +0530] "GET /SpringMVCproject/reguser.htm HTTP/1.1" 500 8595
+127.0.0.1 - - [06/May/2016:16:18:34 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [06/May/2016:16:18:36 +0530] "GET /SpringMVCproject/ HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/May/2016:16:18:42 +0530] "GET /SpringMVCproject/reguser.htm HTTP/1.1" 500 8102
+127.0.0.1 - - [06/May/2016:16:23:39 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [06/May/2016:16:23:41 +0530] "GET /SpringMVCproject/ HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [06/May/2016:16:23:58 +0530] "GET /SpringMVCproject/reguser.htm HTTP/1.1" 500 8102
